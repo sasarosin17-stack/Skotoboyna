@@ -1,0 +1,12 @@
+[
+null,
+{"id":1,"expanded":true,"name":"Лес","order":1,"parentId":0,"scrollX":1061.142857142857,"scrollY":583.7142857142857},
+{"id":2,"expanded":true,"name":"Домик","order":2,"parentId":1,"scrollX":675.2727272727273,"scrollY":373.0909090909091,"quick":false},
+{"id":3,"expanded":true,"name":"Лабиринт Гомера","order":3,"parentId":2,"scrollX":742.909090909091,"scrollY":410.1818181818182,"quick":false},
+{"id":4,"expanded":true,"name":"Встреча с дедом","order":4,"parentId":3,"scrollX":619,"scrollY":350,"quick":false},
+{"id":5,"expanded":true,"name":"Карта Мира","order":5,"parentId":4,"scrollX":928,"scrollY":640,"quick":false},
+{"id":6,"expanded":true,"name":"Палатка Вернама","order":6,"parentId":5,"scrollX":825.3333333333334,"scrollY":466.6666666666667,"quick":false},
+{"id":7,"expanded":false,"name":"Палатка Вернама Новая","order":7,"parentId":6,"scrollX":825.3333333333334,"scrollY":466.6666666666667,"quick":false},
+{"id":8,"expanded":true,"name":"Карта Мира","order":8,"parentId":5,"scrollX":928,"scrollY":640,"quick":false},
+{"id":9,"expanded":false,"name":"Магаз Шахтера","order":9,"parentId":8,"scrollX":825.3333333333334,"scrollY":456,"quick":false}
+]
